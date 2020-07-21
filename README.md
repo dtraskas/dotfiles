@@ -1,10 +1,10 @@
 # Dotfiles
 
-This is a collection of vim, tmux and zsh configurations that I have adapted from [Nick Nisi](https://github.com/nicknisi/dotfiles) am using to bootstrap my machine and share with others. These settings might work for you or might not, so ensure you check each and every one of these files. 
+This is a collection of vim, tmux and zsh configurations that I have adapted from [Nick Nisi](https://github.com/nicknisi/dotfiles) and I am using to bootstrap my machine and share with others. These settings might work for you or might not, so ensure you check each and every one of these files. 
 
-## Contents
+## Step By Step Guide
 
-+ [Setup and Installation](#setup-and-installation)
++ [Dotfiles Setup](#setup-and-installation)
 + [ZSH Setup](#zsh-setup)
 + [Prompt](#prompt)
 + [Vim and Neovim Setup](#vim-and-neovim-setup)
